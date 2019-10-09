@@ -1,4 +1,4 @@
-package com.mariemfelah.linearlayout;
+package com.FirassJlassi.BasicLinearLayout;
 
 import org.junit.Test;
 

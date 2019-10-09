@@ -1,4 +1,4 @@
-package com.mariemfelah.linearlayout;
+package com.FirassJlassi.BasicLinearLayout;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.mariemfelah.linearlayout", appContext.getPackageName());
+        assertEquals("com.FirassJlassi.BasicLinearLayout", appContext.getPackageName());
     }
 }

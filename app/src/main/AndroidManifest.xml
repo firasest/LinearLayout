@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mariemfelah.linearlayout">
+    package="com.FirassJlassi.BasicLinearLayout">
 
     <application
         android:allowBackup="true"
@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.mariemfelah.BasicLinearLayout.MainActivity">
+        <activity android:name="com.FirassJlassi.BasicLinearLayout.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

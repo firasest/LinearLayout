@@ -1,10 +1,10 @@
-package com.mariemfelah.BasicLinearLayout;
+package com.FirassJlassi.BasicLinearLayout;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.mariemfelah.linearlayout.R;
+import com.FirassJlassi.BasicLinearLayout.R;
 
 public class MainActivity extends AppCompatActivity {
 
