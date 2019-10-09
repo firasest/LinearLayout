@@ -13,6 +13,8 @@
         android:layout_height="wrap_content"
         android:hint="to"
         android:inputType="text"
+        android:layout_weight="1"
+
         />
 
     <EditText
@@ -21,6 +23,8 @@
         android:layout_height="wrap_content"
         android:hint="Subject"
         android:inputType="text"
+        android:layout_weight="1"
+
 
         />
 
@@ -31,7 +35,7 @@
         android:hint="Message"
         android:gravity="top"
         android:inputType="text"
-        android:layout_weight="1"
+        android:layout_weight="2"
         />
 
     <Button
